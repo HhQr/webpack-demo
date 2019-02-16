@@ -1,3 +1,3 @@
-如何使用：
-npm install
-npm start
+## 使用方式
+- `npm install`
+- `npm start`
